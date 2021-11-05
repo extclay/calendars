@@ -1,0 +1,2 @@
+# Powersmell script
+Get-Command
